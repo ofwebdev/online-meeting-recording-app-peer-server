@@ -1,3 +1,3 @@
 import { PeerServer } from "peer";
 
-PeerServer({ port: 443, path: "/", secure: true });
+PeerServer({ port: 9001, path: "/" });
